@@ -1,4 +1,4 @@
-Here you will find a list of all Windows 7 (x64) updates in XML format. This list was
+Here you will find a list of Windows 7 (x64) updates in XML format. This list was
 originally created for Windows Update Downloader (http://www.windowsupdatesdownloader.com/)
 by Steven4554, but has not been updated since March 2015. This list is an updated
 version of Steven4554's and contains most update packages to this date. If you are an
