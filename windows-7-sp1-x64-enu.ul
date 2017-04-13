@@ -76,6 +76,12 @@
     <filename>Windows6.1-KB2476490-x64.msu</filename>
     <url>http://download.microsoft.com/download/7/3/1/73141ADE-D1B0-49B7-AC0B-9319C5C6B914/Windows6.1-KB2476490-x64.msu</url>
   </update>
+  <update id="KB954430" category="1" publishdate="2011-07-12" article="http://support.microsoft.com/kb/954430">
+    <title>Security update fot MS XML Core Services 4.0 SP2 (KB954430)</title>
+    <description></description>
+    <filename>msxml4-KB954430-enu.exe</filename>
+    <url>https://download.microsoft.com/download/9/7/1/971f55c8-d512-494f-9c5e-7cc3f9b190ee/msxml4-KB954430-enu.exe</url>
+  </update>
   <update id="KB2536276" category="1" publishdate="2011-08-09" article="http://support.microsoft.com/kb/2536276">
     <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2536276)</title>
     <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
@@ -1324,6 +1330,12 @@
     <filename>Windows6.1-KB2965788-x64.msu</filename>
     <url>https://download.microsoft.com/download/4/4/6/446309DE-268B-45CD-B6F5-6BCCECC450D2/Windows6.1-KB2965788-x64.msu</url>
   </update>
+  <update id="KB3155178" category="1" publishdate="2016-05-10" article="http://support.microsoft.com/kb/3155178">
+    <title>Security Update for Windows Journal (KB3155178)</title>
+    <description>The vulnerability could allow remote code execution if a user opens a specially crafted Journal file</description>
+    <filename>Windows6.1-KB3155178-x64.msu</filename>
+    <url>https://download.microsoft.com/download/5/F/7/5F72F94D-10DF-4CAC-8427-7ED182652115/Windows6.1-KB3155178-x64.msu</url>
+  </update>
   <update id="KB3153171" category="1" publishdate="2016-05-10" article="http://support.microsoft.com/kb/3153171">
     <title>Security update for RPC and for Windows kernel (KB3153171)</title>
     <description>The vulnerabilities could allow elevation of privilege if an unauthenticated attacker makes malformed Remote Procedure Call (RPC) requests to an affected host</description>
@@ -1515,6 +1527,18 @@
     <description></description>
     <filename>windows6.1-kb3212646-x64_a94cf69326099fb121cdd7daf9dfc558f740afb8.msu</filename>
     <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/01/windows6.1-kb3212646-x64_a94cf69326099fb121cdd7daf9dfc558f740afb8.msu</url>
+  </update>
+  <update id="KB4012215" category="1" publishdate="2017-03-12" article="http://support.microsoft.com/kb/4012215">
+    <title>Security Monthly Quality Rollup: March 2017(KB4012215)</title>
+    <description></description>
+    <filename>windows6.1-kb4012215-x64_a777b8c251dcd8378ecdafa81aefbe7f9009c72b.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows6.1-kb4012215-x64_a777b8c251dcd8378ecdafa81aefbe7f9009c72b.msu</url>
+  </update>
+  <update id="KB4015549" category="1" publishdate="2017-04-11" article="http://support.microsoft.com/kb/4015549">
+    <title>Security Monthly Quality Rollup: April 2017 (KB4015549)</title>
+    <description></description>
+    <filename>windows6.1-kb4015549-x64_59cf25073f2e8615b01d9719a0a2e2a0a9a92937.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windows6.1-kb4015549-x64_59cf25073f2e8615b01d9719a0a2e2a0a9a92937.msu</url>
   </update>
  
   <update id="KB2820197" category="2" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2820197">
@@ -2329,11 +2353,11 @@
     <url>http://download.microsoft.com/download/0/A/F/0AFB5316-3062-494A-AB78-7FB0D4461357/windows6.1-KB976932-X64.exe</url>
   </update>
 
-  <update id="KB890830" category="4" publishdate="2016-06-14" article="http://support.microsoft.com/kb/890830">
-    <title>Microsoft Windows Malicious Software Removal Tool x64 (v5.42) - November 2016 (KB890830)</title>
+  <update id="KB890830" category="4" publishdate="2017-04-11" article="http://support.microsoft.com/kb/890830">
+    <title>Microsoft Windows Malicious Software Removal Tool x64 (v5.47) - April 2017 (KB890830)</title>
     <description>This tool checks your computer for infection by specific, prevalent malicious software (including Blaster, Sasser, and Mydoom) and helps to remove the infection if it is found.</description>
-    <filename>Windows-KB890830-x64-V5.42.exe</filename>
-    <url>https://download.microsoft.com/download/2/C/5/2C563B99-54D9-4D85-A82B-45D3CD2F53CE/Windows-KB890830-x64-V5.42.exe</url>
+    <filename>Windows-KB890830-x64-V5.47.exe</filename>
+    <url>https://download.microsoft.com/download/2/C/5/2C563B99-54D9-4D85-A82B-45D3CD2F53CE/Windows-KB890830-x64-V5.47.exe</url>
   </update>
   <update id="" category="4" publishdate="2015-05-19">
     <title>Microsoft Security Essentials 4.8.0204.0 (64-bit)</title>
@@ -2636,6 +2660,12 @@
     <description></description>
     <filename>Windows6.1-KB3163245-x64.msu</filename>
     <url>https://download.microsoft.com/download/4/7/4/474AA078-EECD-4427-8097-B81FCFBBA91B/Windows6.1-KB3163245-x64.msu</url>
+  </update>
+  <update id="KB3205402" category="6" publishdate="2017-03-16" article="http://support.microsoft.com/kb/3205402">
+    <title>Security and Quality Rollup for .NET Framework: December 2016 (KB3205402)</title>
+    <description></description>
+    <filename>windows6.1-kb3210131-x64_b61f7c48461c725b8b6fc642d482fc496747c160.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/12/windows6.1-kb3210131-x64_b61f7c48461c725b8b6fc642d482fc496747c160.msu</url>
   </update>
 
 
