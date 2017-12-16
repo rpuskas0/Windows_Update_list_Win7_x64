@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<updatelist product="Windows 7" servicepack="Service Pack 1" platform="x64" language="ENU" lastupdate="2017-06-17" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
+<updatelist product="Windows 7" servicepack="Service Pack 1" platform="x64" language="ENU" lastupdate="2017-12-16" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
 
 <!-- Created by Steven4554 -->
 <!-- Supplemented by RPuskas -->
@@ -1551,6 +1551,42 @@
     <description></description>
     <filename>windows6.1-kb4022719-x64_127dc7228b2d9278db81121a92471feda59461bb.msu</filename>
     <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows6.1-kb4022719-x64_127dc7228b2d9278db81121a92471feda59461bb.msu</url>
+  </update>
+  <update id="KB4025341" category="1" publishdate="2017-07-11" article="http://support.microsoft.com/kb/4025341">
+    <title>Security Monthly Quality Rollup: July 2017 (KB4025341)</title>
+    <description></description>
+    <filename>windows6.1-kb4025341-x64_e2518cc83b86902d20302f114a7ebe4249efbe9c.msu</filename>
+    <url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/07/windows6.1-kb4025341-x64_e2518cc83b86902d20302f114a7ebe4249efbe9c.msu</url>
+  </update>
+  <update id="KB4034664" category="1" publishdate="2017-08-08" article="http://support.microsoft.com/kb/4034664">
+    <title>Security Monthly Quality Rollup: August 2017 (KB4034664)</title>
+    <description></description>
+    <filename>windows6.1-kb4034664-x64_e4daa48a7407d5921d004dd550d62d91bf25839e.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/07/windows6.1-kb4034664-x64_e4daa48a7407d5921d004dd550d62d91bf25839e.msu</url>
+  </update>
+  <update id="KB4038777" category="1" publishdate="2017-09-12" article="http://support.microsoft.com/kb/KB4038777">
+    <title>Security Monthly Quality Rollup: September 2017 (KB4038777)</title>
+    <description></description>
+    <filename>windows6.1-kb4038777-x64_193d527f3487640fc18f1f596c0434e64cd20c51.msu</filename>
+    <url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/08/windows6.1-kb4038777-x64_193d527f3487640fc18f1f596c0434e64cd20c51.msu</url>
+  </update>
+  <update id="KB4041681" category="1" publishdate="2017-10-10" article="http://support.microsoft.com/kb/4041681">
+    <title>Security Monthly Quality Rollup: October 2017 (KB4041681)</title>
+    <description></description>
+    <filename>windows6.1-kb4041681-x64_6d9242a96d4f1bbea20b8d05ee07db2b91654d72.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/09/windows6.1-kb4041681-x64_6d9242a96d4f1bbea20b8d05ee07db2b91654d72.msu</url>
+  </update>
+  <update id="KB4048957" category="1" publishdate="2017-11-14" article="http://support.microsoft.com/kb/4048957">
+    <title>Security Monthly Quality Rollup: November 2017(KB4048957)</title>
+    <description></description>
+    <filename>windows6.1-kb4048957-x64_83688ecf3a901fc494ee67b5c57e35f0a09dc455.msu</filename>
+    <url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows6.1-kb4048957-x64_83688ecf3a901fc494ee67b5c57e35f0a09dc455.msu</url>
+  </update>
+  <update id="KB4054518" category="1" publishdate="2017-12-12" article="http://support.microsoft.com/kb/4054518">
+    <title>Security Monthly Quality Rollup: December 2017(KB4054518)</title>
+    <description></description>
+    <filename>windows6.1-kb4054518-x64_290d02e1edc77bd5e809f867fc683d2ff4bf6df8.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/11/windows6.1-kb4054518-x64_290d02e1edc77bd5e809f867fc683d2ff4bf6df8.msu</url>
   </update>
  
   <update id="KB2820197" category="2" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2820197">
