@@ -4,8 +4,10 @@ by Steven4554, but has not been updated since March 2015. This list is an update
 version of Steven4554's and contains most update packages to this date. If you are an
 integrator, you will find this most useful, otherwise please feel free to ignore this.
 
+__NOTE:__ You might need to compress this file using zip and rename the extension from
+.zip to .ulz to make it work with the downloader.
 
-DISCLAIMER: This list is for testing purposes only. It may not contain all updates
+__DISCLAIMER:__ This list is for testing purposes only. It may not contain all updates
 necessary to patch your system completely, so the recommended way to keep your machine
 up-to-date is to use the built-in system update tool. The update tool not only patches
 your system, but other software as well (like office software), so keep this in mind.

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<updatelist product="Windows 7" servicepack="Service Pack 1" platform="x64" language="ENU" lastupdate="2018-08-20" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
+<updatelist product="Windows 7" servicepack="Service Pack 1" platform="x64" language="ENU" lastupdate="2018-10-20" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
 
 <!-- Created by Steven4554 -->
 <!-- Supplemented by RPuskas -->
@@ -1630,11 +1630,17 @@
     <filename>windows6.1-kb4338818-x64_87dc4cd46105dca91ce457affa99d007e07104c6.msu</filename>
     <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windows6.1-kb4338818-x64_87dc4cd46105dca91ce457affa99d007e07104c6.msu</url>
   </update>
-  <update id="KB4343900" category="" publishdate="2018-08-10" article="http://support.microsoft.com/kb/4343900">
+  <update id="KB4343900" category="1" publishdate="2018-08-10" article="http://support.microsoft.com/kb/4343900">
     <title>Security Monthly Quality Rollup: August 2018(KB4343900)</title>
     <description></description>
     <filename>windows6.1-kb4343900-x64_8acbe17ab3a57e50df6c84a4940f2933fa790468.msu</filename>
     <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/08/windows6.1-kb4343900-x64_8acbe17ab3a57e50df6c84a4940f2933fa790468.msu</url>
+  </update>
+  <update id="KB4457144" category="1" publishdate="2018-09-01" article="http://support.microsoft.com/kb/4457144">
+    <title>Security Monthly Quality Rollup: September 2018(KB4457144)</title>
+    <description></description>
+    <filename>windows6.1-kb4457144-x64_5ca467d42deadc2b2f4010c4a26b4a6903790dd5.msu</filename>
+    <url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows6.1-kb4457144-x64_5ca467d42deadc2b2f4010c4a26b4a6903790dd5.msu</url>
   </update>
 
   <update id="KB2820197" category="2" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2820197">
@@ -2452,6 +2458,12 @@
     <description></description>
     <filename>windows6.1-kb2952664-v25-x64_9c592f060c857166bb548b021223ed4b4cfe4d37.msu</filename>
     <url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/07/windows6.1-kb2952664-v25-x64_9c592f060c857166bb548b021223ed4b4cfe4d37.msu</url>
+  </update>
+  <update id="KB3177467" category="2" publishdate="2018-10-09" article="http://support.microsoft.com/kb/3177467">
+    <title>Servicing stack update for Windows 7 SP1 (KB3177467)</title>
+    <description>This Servicing Stack Update addresses an issue that was affecting the time it takes to install a new Windows Update. NOTE:  During this restart, you may find yourself stuck on "Stage 2 of 2" or "Stage 3 of 3". Press Ctrl+Alt+Delete to continue to log on, the update installes just fine. This should occur once only.</description>
+    <filename>windows6.1-kb3177467-v2-x64_b9df2405e7e034e3ffda160fff99a36ab96ba187.msu</filename>
+    <url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2018/09/windows6.1-kb3177467-v2-x64_b9df2405e7e034e3ffda160fff99a36ab96ba187.msu</url>
   </update>
         
   <update id="KB976932" category="3" publishdate="2011-02-22" article="http://support.microsoft.com/kb/976932">
