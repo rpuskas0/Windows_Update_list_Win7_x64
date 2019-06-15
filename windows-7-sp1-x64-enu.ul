@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<updatelist product="Windows 7" servicepack="Service Pack 1" platform="x64" language="ENU" lastupdate="2018-10-20" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
+<updatelist product="Windows 7" servicepack="Service Pack 1" platform="x64" language="ENU" lastupdate="2019-06-15" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
 
 <!-- Created by Steven4554 -->
 <!-- Supplemented by RPuskas -->
@@ -1631,16 +1631,76 @@
     <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windows6.1-kb4338818-x64_87dc4cd46105dca91ce457affa99d007e07104c6.msu</url>
   </update>
   <update id="KB4343900" category="1" publishdate="2018-08-10" article="http://support.microsoft.com/kb/4343900">
-    <title>Security Monthly Quality Rollup: August 2018(KB4343900)</title>
+    <title>Security Monthly Quality Rollup: August 2018 (KB4343900)</title>
     <description></description>
     <filename>windows6.1-kb4343900-x64_8acbe17ab3a57e50df6c84a4940f2933fa790468.msu</filename>
     <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/08/windows6.1-kb4343900-x64_8acbe17ab3a57e50df6c84a4940f2933fa790468.msu</url>
   </update>
   <update id="KB4457144" category="1" publishdate="2018-09-01" article="http://support.microsoft.com/kb/4457144">
-    <title>Security Monthly Quality Rollup: September 2018(KB4457144)</title>
+    <title>Security Monthly Quality Rollup: September 2018 (KB4457144)</title>
     <description></description>
     <filename>windows6.1-kb4457144-x64_5ca467d42deadc2b2f4010c4a26b4a6903790dd5.msu</filename>
     <url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows6.1-kb4457144-x64_5ca467d42deadc2b2f4010c4a26b4a6903790dd5.msu</url>
+  </update>
+  <update id="KB4462923" category="1" publishdate="2018-10-09" article="http://support.microsoft.com/kb/4462923">
+    <title>Security Monthly Quality Rollup: October 2018 (KB4462923)</title>
+    <description></description>
+    <filename>windows6.1-kb4462923-x64_5c4506692214692bf846da33052edb1dc5752156.msu</filename>
+    <url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows6.1-kb4462923-x64_5c4506692214692bf846da33052edb1dc5752156.msu</url>
+  </update>
+  <update id="KB4467107" category="1" publishdate="2018-11-13" article="http://support.microsoft.com/kb/4467107">
+    <title>Security Monthly Quality Rollup: November 2018 (KB4467107)</title>
+    <description></description>
+    <filename>windows6.1-kb4467107-x64_1b77580629590e3fab05e08710e04be358a1f765.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/windows6.1-kb4467107-x64_1b77580629590e3fab05e08710e04be358a1f765.msu</url>
+  </update>
+  <update id="KB4471318" category="1" publishdate="" article="http://support.microsoft.com/kb/4471318">
+    <title>Security Monthly Quality Rollup: December 2018 (KB4471318)</title>
+    <description></description>
+    <filename>windows6.1-kb4471318-x64_b4c39ec96309b1e457d76f2294664b9068044d38.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windows6.1-kb4471318-x64_b4c39ec96309b1e457d76f2294664b9068044d38.msu</url>
+  </update>
+  <update id="KB4480970" category="1" publishdate="2019-01-08" article="http://support.microsoft.com/kb/4480970">
+    <title>Security Monthly Quality Rollup: January 2019 (KB4480970)</title>
+    <description></description>
+    <filename>windows6.1-kb4480970-x64_a97919028931dcf220036af7c582a37f83f0d819.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/01/windows6.1-kb4480970-x64_a97919028931dcf220036af7c582a37f83f0d819.msu</url>
+  </update>
+  <update id="KB4486563" category="1" publishdate="2019-02-12" article="http://support.microsoft.com/kb/4486563">
+    <title>Security Monthly Quality Rollup: February 2019 (KB4486563)</title>
+    <description></description>
+    <filename>windows6.1-kb4486563-x64_d327324815ed5bfbabb5ffb860b80b9f59b25a70.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/01/windows6.1-kb4486563-x64_d327324815ed5bfbabb5ffb860b80b9f59b25a70.msu</url>
+  </update>
+  <update id="KB4489878" category="1" publishdate="2019-03-12" article="http://support.microsoft.com/kb/4489878">
+    <title>Security Monthly Quality Rollup: March 2019 (KB4489878)</title>
+    <description></description>
+    <filename>windows6.1-kb4489878-x64_ad02ba6500855333621fecf1b95cc15a8950f2e8.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows6.1-kb4489878-x64_ad02ba6500855333621fecf1b95cc15a8950f2e8.msu</url>
+  </update>
+  <update id="KB4474419" category="1" publishdate="2019-03-12" article="http://support.microsoft.com/kb/4474419">
+    <title>SHA-2 code signing support update (KB4474419)</title>
+    <description>This update introduces SHA-2 code sign support for Windows 7 SP1</description>
+    <filename>windows6.1-kb4474419-x64_6acf139f1eb84f60fcdeef3d4f81285e1edb45f9.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows6.1-kb4474419-x64_6acf139f1eb84f60fcdeef3d4f81285e1edb45f9.msu</url>
+  </update>
+  <update id="KB4490628" category="1" publishdate="2019-03-12" article="http://support.microsoft.com/kb/4490628">
+    <title>Servicing stack update for Windows 7 SP1 (KB4490628)</title>
+    <description>Addresses an issue in the servicing stack when you install an update that has been signed by using only the SHA-2 hash algorithm</description>
+    <filename>windows6.1-kb4490628-x64_d3de52d6987f7c8bdc2c015dca69eac96047c76e.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows6.1-kb4490628-x64_d3de52d6987f7c8bdc2c015dca69eac96047c76e.msu</url>
+  </update>
+  <update id="KB4499164" category="1" publishdate="2019-05-14" article="http://support.microsoft.com/kb/4499164">
+    <title>Security Monthly Quality Rollup: May 2019 (KB4499164)</title>
+    <description>Ensure that any one or more of the Monthly rollups released between April 10, 2018 (KB4093118) and March 12, 2019 have been installed before applying later updates. Each of these rollup updates includes PciClearStaleCache.exe</description>
+    <filename>windows6.1-kb4499164-x64_21696444837b433df698a5bc73b0cc23df17bd58.msu</filename>
+    <url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/05/windows6.1-kb4499164-x64_21696444837b433df698a5bc73b0cc23df17bd58.msu</url>
+  </update>
+  <update id="KB4503292" category="1" publishdate="2019-06-11" article="http://support.microsoft.com/kb/4503292">
+    <title>Security Monthly Quality Rollup: June 2019 (KB4503292)</title>
+    <description></description>
+    <filename>windows6.1-kb4503292-x64_a35bb4ea16d1d529fde9abfe8a0c16e9061f74cd.msu</filename>
+    <url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows6.1-kb4503292-x64_a35bb4ea16d1d529fde9abfe8a0c16e9061f74cd.msu</url>
   </update>
 
   <update id="KB2820197" category="2" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2820197">
@@ -2464,6 +2524,12 @@
     <description>This Servicing Stack Update addresses an issue that was affecting the time it takes to install a new Windows Update. NOTE:  During this restart, you may find yourself stuck on "Stage 2 of 2" or "Stage 3 of 3". Press Ctrl+Alt+Delete to continue to log on, the update installes just fine. This should occur once only.</description>
     <filename>windows6.1-kb3177467-v2-x64_b9df2405e7e034e3ffda160fff99a36ab96ba187.msu</filename>
     <url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2018/09/windows6.1-kb3177467-v2-x64_b9df2405e7e034e3ffda160fff99a36ab96ba187.msu</url>
+  </update>
+  <update id="KB4493132" category="2" publishdate="2019-04-03" article="http://support.microsoft.com/kb/4493132">
+    <title>Windows 7 SP1 end of support notification(KB4493132)</title>
+    <description>After 10 years of servicing, January 14, 2020, is the last day Microsoft will offer security updates for computers running Windows 7 SP1. This update enables reminders about Windows 7 end of support.</description>
+    <filename></filename>
+    <url></url>
   </update>
         
   <update id="KB976932" category="3" publishdate="2011-02-22" article="http://support.microsoft.com/kb/976932">
