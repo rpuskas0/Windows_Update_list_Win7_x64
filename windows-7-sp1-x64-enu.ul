@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<updatelist product="Windows 7" servicepack="Service Pack 1" platform="x64" language="ENU" lastupdate="2019-06-15" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
+<updatelist product="Windows 7" servicepack="Service Pack 1" platform="x64" language="ENU" lastupdate="2019-07-13" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
 
 <!-- Created by Steven4554 -->
 <!-- Supplemented by RPuskas -->
@@ -1701,6 +1701,12 @@
     <description></description>
     <filename>windows6.1-kb4503292-x64_a35bb4ea16d1d529fde9abfe8a0c16e9061f74cd.msu</filename>
     <url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows6.1-kb4503292-x64_a35bb4ea16d1d529fde9abfe8a0c16e9061f74cd.msu</url>
+  </update>
+  <update id="KB4507449" category="1" publishdate="" article="http://support.microsoft.com/kb/4507449">
+    <title>Security Monthly Quality Rollup: July 2019 (KB4507449)</title>
+    <description></description>
+    <filename>windows6.1-kb4507449-x64_6e41f8e0642fb3a87e99b8acd34b7541b9316d0b.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows6.1-kb4507449-x64_6e41f8e0642fb3a87e99b8acd34b7541b9316d0b.msu</url>
   </update>
 
   <update id="KB2820197" category="2" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2820197">

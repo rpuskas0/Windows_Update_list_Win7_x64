@@ -1,3 +1,10 @@
+__IMPORTANT:__
+_Further updating of this list is from now on discontinued, as end of support for Windows 7_
+_is within 6 months and putting further effort into maintaining such a list is now_
+_nonsensical. I hope you enjoyed using it as much as I enjoyed maintaining it._
+
+
+
 Here you will find a list of Windows 7 (x64) updates in XML format. This list was
 originally created for Windows Update Downloader (http://www.windowsupdatesdownloader.com/)
 by Steven4554, but has not been updated since March 2015. This list is an updated
